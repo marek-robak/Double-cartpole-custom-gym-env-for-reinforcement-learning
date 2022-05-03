@@ -43,7 +43,7 @@ If you want to make specific changes to the source code or extend it with your
 own functionalities this method will suit you.
 
 ```
-git clone https://github.com/mareo1208/Double-cartpole-custom-gym-env-for-reinforcement-learning.git
+git clone https://github.com/marek-robak/Double-cartpole-custom-gym-env-for-reinforcement-learning.git
 cd Double-cartpole-custom-gym-env-for-reinforcement-learning/double_cartpole_custom_gym_env_package
 pip install -e .
 ```
